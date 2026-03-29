@@ -1,4 +1,4 @@
-# OmniFi — v2.0 Changes & Feature Additions
+# OmniFi — v1.0 Changes & Feature Additions
 
 ## New Modules
 
