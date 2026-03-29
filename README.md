@@ -1,4 +1,4 @@
-# OmniFi v1 – Hybrid WiFi Security Enforcement Platform
+# OmniFi v1 – Hybrid WiFi Analysis and Security Enforcement Toolkit
 Hybrid WiFi Analysis and Security Enforcement Toolkit
 
  A **full-stack WiFi security platform** that integrates real-time monitoring, threat detection, behavioral intelligence, and network enforcement.
