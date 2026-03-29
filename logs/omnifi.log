@@ -1,0 +1,20 @@
+2026-03-28 19:05:54,989 [OmniFi.Telemetry      ] INFO: Telemetry engine started
+2026-03-28 19:05:54,990 [OmniFi.Main           ] INFO: OmniFi starting — Windows scapy:True pywifi:True root:False
+2026-03-28 19:05:55,102 [OmniFi.DB             ] INFO: Database opened: C:\Users\gowth\Downloads\OmniFi_v2\OmniFi_v2\db\omnifi.db
+2026-03-28 19:06:11,306 [OmniFi.Alerts         ] INFO: [LOW     ][safe_mode] Safe mode DISABLED
+2026-03-28 19:06:11,312 [OmniFi.Alerts         ] INFO: [LOW     ][safe_mode] Safe mode DISABLED
+2026-03-28 19:06:14,579 [OmniFi.Alerts         ] INFO: [LOW     ][safe_mode] Safe mode ENABLED
+2026-03-28 19:06:14,591 [OmniFi.Alerts         ] INFO: [LOW     ][safe_mode] Safe mode ENABLED
+2026-03-28 19:08:33,000 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
+2026-03-28 19:08:43,013 [OmniFi.Alerts         ] INFO: [MEDIUM  ][mac_spoof] Real hardware MAC 00:FF:EE:FB:CF:A0 exposed on Wi-Fi. Enable MAC randomisation in OS settings or use macchanger.
+2026-03-28 19:09:06,115 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
+2026-03-28 19:09:07,061 [OmniFi.Alerts         ] INFO: [CRITICAL][captive_portal] Portal login served over HTTP — credentials sent in cleartext.
+2026-03-28 19:09:07,071 [OmniFi.Alerts         ] INFO: [HIGH    ][captive_portal] JavaScript injection detected in portal response.
+2026-03-28 19:09:07,452 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
+2026-03-28 19:09:08,459 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
+2026-03-28 19:09:16,220 [OmniFi.Alerts         ] INFO: [CRITICAL][captive_portal] Portal login served over HTTP — credentials sent in cleartext.
+2026-03-28 19:09:16,229 [OmniFi.Alerts         ] INFO: [HIGH    ][captive_portal] JavaScript injection detected in portal response.
+2026-03-28 19:10:52,179 [OmniFi.Backend        ] ERROR: RouterInspector: No module named 'omnifi'
+2026-03-28 19:11:26,558 [OmniFi.Backend        ] ERROR: RouterInspector: No module named 'omnifi'
+2026-03-28 19:21:55,926 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
+2026-03-28 19:22:15,307 [OmniFi.Alerts         ] INFO: [MEDIUM  ][wifi_posture] Wi-Fi password is MODERATE (score 45/100). Consider strengthening it.
